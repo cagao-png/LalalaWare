@@ -1,6 +1,4 @@
-          Duration = 3
-        })
-    end-- Load Rayfield (official via sirius.menu)
+-- Load Rayfield (official via sirius.menu)
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 -- Main services and variables
@@ -250,4 +248,4 @@ CreditTab:CreateButton({
             Duration = 3
         })
     end
-})})
+})
