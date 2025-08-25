@@ -9,7 +9,9 @@ Key Features:
 1. Aimbot:
 
 > Automatic aiming for faster kills.
+
 > Adjustable FOV (Field of View) and soft mode for smoother targeting.
+
 > Wall check and team check to avoid shooting through walls or teammates.
 
 
