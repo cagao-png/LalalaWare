@@ -16,9 +16,12 @@ Key Features:
 2. ESP (Extra Sensory Perception):
 
 > See players through walls,
+
 > Head Dot,
-> + Fully compatible with Universal ESP.
-Example:
+
+> Fully compatible with Universal ESP.
+
++ Example:
 ![LalalaWare](https://cdn.discordapp.com/attachments/1394010680708960326/1409555960141320345/52_Sem_Titulo_20250825121120.png?ex=68adcec9&is=68ac7d49&hm=f5dc61a72bace49ce797be154f8e82bbab759056175ef01b1bc3ae0094204e97)
 
 
