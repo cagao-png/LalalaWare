@@ -49,7 +49,7 @@ Key Features:
 
 ➕ Much more, try yourself below.
 
--# (compatible with mobile, tested on delta)
+### (compatible with mobile, tested on delta)
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cagao-png/scripts/refs/heads/main/insta%20tio.lua"))()
