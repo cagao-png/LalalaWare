@@ -1,6 +1,48 @@
 # LALALAWARE
 ![Lalalaware](https://cdn.discordapp.com/attachments/1394010680708960326/1409546514274979840/51_Sem_Titulo_20250824214046.png?ex=68adc5fd&is=68ac747d&hm=d8ab897608aae716dd444aab72e3bf048b80880bb904cbe9d4901bdf981b0e97&)
+# InstantAim PRO – Universal Roblox Cheats
 
+LalalaWare is a universal Roblox cheat packed with powerful features like aimbot, head hitbox expander, and ESP. It also integrates seamlessly with Universal ESP (Shlexware), giving you full control and enhanced awareness in-game.
+
+Key Features:
+
+1. Aimbot:
+
+> Automatic aiming for faster kills.
+> Adjustable FOV (Field of View) and soft mode for smoother targeting.
+> Wall check and team check to avoid shooting through walls or teammates.
+
+
+2. ESP (Extra Sensory Perception):
+
+> See players through walls.
+> Head Dot
+> Fully compatible with Universal ESP.
+Example:
+![LalalaWare](link)
+
+
+3. Head Hitbox Expander:
+
+> Enlarges the head hitbox for easier critical shots.
+> Head Size Customization
+> Fake Head
+
+
+4. General Settings:
+
+> Configs saved in InstantAimPRO/config.json. (temporary)
+
+> Toggle FOV display and other aiming options.
+
+
+5. Extra Features:
+
+> Killsounds for fun
+
+> Movement and more
+
+6. Much more, try yourself below.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cagao-png/scripts/refs/heads/main/insta%20tio.lua"))()
 ```
