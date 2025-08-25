@@ -3,7 +3,7 @@
 # LalalaWare – Universal Roblox Cheats   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cagao-png.scripts&left_color=gray&right_color=orange)
 
 ## [LalalaWare](https://discord.gg/RSdkTFutbV) is a universal Roblox cheat packed with powerful features like aimbot, head hitbox expander, and [LalalaESP](https://discord.gg/RSdkTFutbV)), giving you full control and enhanced awareness.
-
+(not open sourced)
 # Key Features:
 
 🔫 Aimbot:
