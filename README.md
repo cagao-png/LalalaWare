@@ -58,5 +58,7 @@ ________________________________________
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cagao-png/scripts/refs/heads/main/insta%20tio.lua"))()
 ```
+# [Youtube Channel](link)
+# [Discord Server](link)
 
 
