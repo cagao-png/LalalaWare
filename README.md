@@ -50,7 +50,7 @@
 > Movement and more
 
 _______________________________________
-[!LalalaWare](https://i.imgur.com/zWu8s8J.png)
+![LalalaWare](https://i.imgur.com/zWu8s8J.png)
 
 ## ➕ Much more, try yourself below.
 
